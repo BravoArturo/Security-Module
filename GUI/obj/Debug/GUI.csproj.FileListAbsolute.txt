@@ -1,0 +1,30 @@
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\App.g.cs
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\GUI.exe.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\GUI.exe
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\GUI.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\CONTROLADORA.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\MODELO.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\DATOS.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\CASOS DE USO.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\EntityFramework.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\CONTROLADORA.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\CONTROLADORA.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\MODELO.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\MODELO.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\DATOS.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\DATOS.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\CASOS DE USO.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\CASOS DE USO.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\bin\Debug\EntityFramework.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\GUI.g.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\GUI.exe
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\GUI.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\logIn.g.cs
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\logIn.baml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\GUI\obj\Debug\pagePrincipal.g.cs

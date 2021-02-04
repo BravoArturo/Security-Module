@@ -1,0 +1,188 @@
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CASOS DE USO.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CASOS DE USO.pdb
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CASOS DE USO.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CASOS DE USO.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CASOS DE USO.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CASOS DE USO.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\SpreadsheetLight.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\System.IO.Packaging.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\SpreadsheetLight.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\System.IO.Packaging.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CASOS DE USO.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\SpreadsheetLight.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\System.IO.Packaging.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CASOS DE USO.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\SpreadsheetLight.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\System.IO.Packaging.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MetroFramework.Design.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MetroFramework.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\CONTROLADORA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\CASOS DE USO.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\MetroFramework.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\SpreadsheetLight.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\System.IO.Packaging.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\CASOS DE USO.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\SpreadsheetLight.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\bin\Debug\System.IO.Packaging.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\CASOS DE USO.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\MetroFramework.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\SpreadsheetLight.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\System.IO.Packaging.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\CASOS DE USO.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\SpreadsheetLight.xml
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\bin\Debug\System.IO.Packaging.xml
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\CASOS DE USO.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\MetroFramework.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\SpreadsheetLight.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\System.IO.Packaging.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\CASOS DE USO.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\SpreadsheetLight.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\bin\Debug\System.IO.Packaging.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\CONTROLADORA\obj\Debug\CONTROLADORA.pdb

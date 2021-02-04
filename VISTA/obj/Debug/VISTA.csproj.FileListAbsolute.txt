@@ -1,0 +1,660 @@
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\VISTA.exe
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\CASOS DE USO.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\CASOS DE USO.pdb
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.exe
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\VISTA.exe
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\CASOS DE USO.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\CASOS DE USO.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmAgregarModificarGrupo.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmAgregarModificarUsuario.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmCambiarContraseña.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmGestionarGrupos.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmGestionarUsuarios.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmMenu.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.exe
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\VISTA.exe
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\CASOS DE USO.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\CASOS DE USO.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmAgregarModificarGrupo.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmAgregarModificarUsuario.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmCambiarContraseña.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmGestionarGrupos.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmGestionarUsuarios.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmMenu.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.exe
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmLogin.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmOlvidoSuContraseña.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmMisDatos.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmLogin.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmMisDatos.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmOlvidoSuContraseña.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.INFORME.frmInforme.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\EnvDTE.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\stdole.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\SpreadsheetLight.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\System.IO.Packaging.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\SpreadsheetLight.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\System.IO.Packaging.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\VISTA.exe
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\VISTA.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\MODELO.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\SpreadsheetLight.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\System.IO.Packaging.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\DATOS.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\CASOS DE USO.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\EnvDTE.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\stdole.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\Microsoft.MSXML.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\MODELO.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\SpreadsheetLight.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\System.IO.Packaging.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\DATOS.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\CASOS DE USO.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmAgregarModificarGrupo.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmAgregarModificarUsuario.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmCambiarContraseña.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmGestionarGrupos.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmGestionarUsuarios.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmMenu.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmMisDatos.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmOlvidoSuContraseña.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.INFORME.frmInforme.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.exe
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\MetroFramework.Design.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\MetroFramework.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\VISTA\obj\Debug\VISTA.frmLoginn.resources
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\VISTA.exe
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\VISTA.pdb
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\MetroFramework.Design.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\MetroFramework.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\MODELO.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\SpreadsheetLight.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\System.IO.Packaging.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\DATOS.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\CASOS DE USO.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\EnvDTE.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\stdole.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.MSXML.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\MODELO.pdb
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\SpreadsheetLight.xml
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\System.IO.Packaging.xml
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\DATOS.pdb
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\CASOS DE USO.pdb
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmAgregarModificarGrupo.resources
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmAgregarModificarUsuario.resources
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmCambiarContraseña.resources
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmGestionarGrupos.resources
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmGestionarUsuarios.resources
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmLoginn.resources
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmMenu.resources
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmMisDatos.resources
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmOlvidoSuContraseña.resources
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.INFORME.frmInforme.resources
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.exe
+C:\Users\lauta\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\VISTA.exe
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\MetroFramework.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\SpreadsheetLight.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\System.IO.Packaging.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\CASOS DE USO.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\EnvDTE.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\stdole.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\SpreadsheetLight.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\System.IO.Packaging.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\CASOS DE USO.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmAgregarModificarGrupo.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmAgregarModificarUsuario.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmCambiarContraseña.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmGestionarGrupos.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmGestionarUsuarios.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmLoginn.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmMenu.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmMisDatos.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.frmOlvidoSuContraseña.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.INFORME.frmInforme.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.exe
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\VISTA.exe
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\MetroFramework.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\SpreadsheetLight.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\System.IO.Packaging.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\CASOS DE USO.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\EnvDTE.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\stdole.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\SpreadsheetLight.xml
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\System.IO.Packaging.xml
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\CASOS DE USO.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.frmAgregarModificarGrupo.resources
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.frmAgregarModificarUsuario.resources
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.frmCambiarContraseña.resources
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.frmGestionarGrupos.resources
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.frmGestionarUsuarios.resources
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.frmLoginn.resources
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.frmMenu.resources
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.frmMisDatos.resources
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.frmOlvidoSuContraseña.resources
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.INFORME.frmInforme.resources
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.exe
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\VISTA.exe
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\MetroFramework.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\SpreadsheetLight.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\System.IO.Packaging.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\CASOS DE USO.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\EnvDTE.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\stdole.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\SpreadsheetLight.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\System.IO.Packaging.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\CASOS DE USO.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\CASOS DE USO.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.frmAgregarModificarGrupo.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.frmAgregarModificarUsuario.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.frmCambiarContraseña.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.frmGestionarGrupos.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.frmGestionarUsuarios.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.frmLoginn.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.frmMenu.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.frmMisDatos.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.frmOlvidoSuContraseña.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.INFORME.frmInforme.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.exe
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\VISTA\obj\Debug\VISTA.pdb

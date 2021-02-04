@@ -1,0 +1,174 @@
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.dll
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.final.resources
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.prueba.resources
+C:\Users\Bravo Arturo\source\repos\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations._return.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.check.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.encrypt.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.informe.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.informe2.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.informe3.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.informe22.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.informe33.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.check.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.encrypt.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.informe.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.informe2.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.informe3.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.informe22.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.informe33.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\SpreadsheetLight.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\System.IO.Packaging.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\SpreadsheetLight.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\System.IO.Packaging.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\DATOS.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\MODELO.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\SpreadsheetLight.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\System.IO.Packaging.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\MODELO.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\SpreadsheetLight.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\System.IO.Packaging.xml
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.Migrations.tci.resources
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\MetroFramework.Design.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\MetroFramework.dll
+C:\Users\lauta\Desktop\proyectoFinalBravoArturo\DATOS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\MetroFramework.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\SpreadsheetLight.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\System.IO.Packaging.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\SpreadsheetLight.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\bin\Debug\System.IO.Packaging.xml
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\obj\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\obj\Debug\DATOS.Migrations.asfasf.resources
+C:\Users\Bravo Arturo\Desktop\proyectoFinal\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\MetroFramework.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\SpreadsheetLight.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\System.IO.Packaging.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\SpreadsheetLight.xml
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\bin\Debug\System.IO.Packaging.xml
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\obj\Debug\DATOS.Migrations.asfasf.resources
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\obj\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Desktop\TRABAJO DE CAMPO\proyectoFinal\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\MetroFramework.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\MODELO.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\SpreadsheetLight.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\System.IO.Packaging.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\SpreadsheetLight.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\bin\Debug\System.IO.Packaging.xml
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\obj\Debug\DATOS.Migrations.asfasf.resources
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\obj\Debug\DATOS.dll
+C:\Users\Bravo Arturo\Documents\archivos facultad\UAI\TERCER AÑO\PRIMER CUATRIMESTRE\Trabajo de Campo\finalTrabajoDeCampoBravoArturo\proyectoFinal\DATOS\obj\Debug\DATOS.pdb

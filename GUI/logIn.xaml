@@ -1,0 +1,45 @@
+﻿<Window x:Class="GUI.logIn"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     BorderBrush="DarkGray"
+        Title="Login" WindowStartupLocation="CenterScreen" Height="468" Width="350.762" Background="White" ResizeMode="NoResize" WindowStyle="ThreeDBorderWindow">
+    <Grid>
+        <Ellipse HorizontalAlignment="Left" Height="95" Margin="115,29,0,0" VerticalAlignment="Top" Width="108">
+            <Ellipse.Fill>
+                <SolidColorBrush Color="#FF2C4289" Opacity="0.3"/>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Ellipse HorizontalAlignment="Left" Height="95" Margin="120,29,0,0" VerticalAlignment="Top" Width="98">
+            <Ellipse.Fill>
+                <SolidColorBrush Color="#FF2C4289" Opacity="0.3"/>
+            </Ellipse.Fill>
+        </Ellipse>
+        <TextBox Name="txtUSUARIO" HorizontalAlignment="Left" Height="29" Margin="53,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="243" FontSize="16"/>
+        <TextBox Name="txtPASS" HorizontalAlignment="Left" Margin="53,258,0,0" VerticalAlignment="Top" Width="243"  Height="29" FontSize="16"/>
+        <Button Name="btnLOGIN" Content="Login" HorizontalAlignment="Left" Margin="53,331,0,0" VerticalAlignment="Top" Width="243" FontSize="16" Background="LightBlue" Click="btnLOGIN_Click"/>
+        <Label Content="¿Olvidó su contraseña?" HorizontalAlignment="Left" Margin="99,372,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="Black"/>
+        <Label Name="lblINCORRECTO" Content="" HorizontalAlignment="Left" Margin="53,148,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="Black" RenderTransformOrigin="-0.147,2.016" IsEnabled="False"/>
+        <Image Margin="6,258,296,142.4" Source="lockIcon.png" Stretch="Fill"/>
+        <Image Margin="1,176,291,205.4" Source="userIcon.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.025"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image Margin="102,18,103,293.4" Source="userIcon2.png" Stretch="Fill" RenderTransformOrigin="0.119,0.466"/>
+    </Grid>
+
+    </Window>
